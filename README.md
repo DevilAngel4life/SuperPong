@@ -32,6 +32,11 @@ Visual Studio
 - After installing the software and downloaded or clone the repository open Unity.
 - Unity interface and may ask you to create an account if you haven't before just create a Unity account. There will be different options of account to choose from Personal, Plus, Pro. Choose the right one for you. After that you will require verified your email. Once that's done it's time to look for the Unzipped folder of the Downloaded project, with the Open and browse to the folder and select.
 - Unity will open the folder and load the main interface. 
+- Unity will have a main layout on the **Assets** section there will be scripts for all the components of the game. 
+- In the **Assets** there is also a folder the contains all of the **Scenes** of the game
+
+### Build Executable
+
 - To compile the code from the main interface go to the top left of the window click 
 ```
 File -> Build Settings... 
